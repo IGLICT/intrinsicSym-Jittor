@@ -34,7 +34,7 @@ Jittor and matlab code of Learning-based Intrinsic Reflectional Symmetry Detecti
    main_visualize_ss   % visualize
    main_selecct_eigen  % annotate
    main_compute_evecs  % preprocess
-
+   ```
 ## Citation
 
 If you find our work useful in your research, please consider citing:
