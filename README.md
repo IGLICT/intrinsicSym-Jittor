@@ -1,5 +1,5 @@
 # Learning-based Intrinsic Reflectional Symmetry Detection
-Tensorflow and matlab code of Learning-based Intrinsic Reflectional Symmetry Detection. Due to the size limit of supplementary materials, only part of our training data is uploaded.
+Jittor and matlab code of Learning-based Intrinsic Reflectional Symmetry Detection. Due to the size limit of supplementary materials, only part of our training data is uploaded.
 
 ## Usage
 
